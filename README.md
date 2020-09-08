@@ -1,9 +1,5 @@
 ## Twitter
 
- <p align="center" >
-  <img width="20%" src="https://cdn.zeplin.io/5dd5ab8e5fb2a0060f81698f/assets/2420CEFD-BBDE-49C8-91E3-A49B116851E9.svg" />
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT" />
   <img src="https://img.shields.io/static/v1?label=javascript&message=language&color=yellow&style=for-the-badge&logo=JAVASCRIPT"/>
@@ -11,10 +7,11 @@
   <img src="https://img.shields.io/static/v1?label=typescript&message=library&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>
 </p>
 </br>
-> Status do Projeto: Em desenvolvimento :warning: 
+> Status do Projeto: Concluído :warning: 
 
 ## Descrição do Projeto
 
+Replicação do twitter em Typescript
 
 ## Deploy
 
