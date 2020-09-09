@@ -13,6 +13,10 @@
 
 Replicação do twitter em Typescript
 
+## Figma
+
+ https://www.figma.com/file/cjNh1bd93p...
+
 ## Deploy
 
 <p align="justify">
