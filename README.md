@@ -27,7 +27,7 @@ Replicação do Twitter responsivo feita com React e Typescript.
 ## Deploy (FRONTEND):dash:
 
 <p align="justify">
-  O deploy do projeto foi realizado pelo Netlify e encontra-se disponivel em: <b><a target="blank href="organic-trouble.surge.sh"</a></b>
+    O deploy do projeto foi realizado pelo <b>Netlify</b> e encontra-se disponivel em: <b><a target="blank href="https://determined-darwin-19c46a.netlify.app/">https://determined-darwin-19c46a.netlify.app/</a></b>
 </p>
 
 
