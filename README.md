@@ -5,6 +5,7 @@
 </br>
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT" />
+    <img src="https://img.shields.io/static/v1?label=node&message=library&color=green&style=for-the-badge&logo=Node"/>
     <img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>
     <img src="https://img.shields.io/static/v1?label=styled-component&message=library&color=pink&style=for-the-badge&logo=STYLED-COMPONENTS"/>
 </p> 
@@ -46,17 +47,16 @@ Entre no projeto e instale as dependências através do comando:
 ```
 npm install
 ```
-
+Por último, suba a aplicação:
+```
 npm start
-
+```
 
 ## Linguagens, dependencias e libs utilizadas(FRONTEND) :books:
 
 - [React](https://pt-br.reactjs.org/)
 - [Styled Components](https://styled-components.com/)
-- [Material ui](https://material-ui.com/pt/)
-- [Redux](https://redux.js.org/)
-- [Typescript](https://reactjs.org/docs/hooks-intro.html)
+- [Typescript](https://www.typescriptlang.org/)
 
 
 ## Desenvolvido Por :octocat:
