@@ -20,7 +20,7 @@ Replicação do Twitter responsivo feita com React e Typescript.
 ## Protótipo
 
 <p align="justify">
-  O protótipo do projeto foi criado em Figma encontra-se disponivel em: <b>https://www.figma.com/file/cjNh1bd93pbJBFOza25K7L/Rocketseat-Twitter-Clone?node-id=1%3A2</b>
+    O protótipo do projeto foi criado em <b>Figma</b> encontra-se disponivel em: <b>https://www.figma.com/file/cjNh1bd93pbJBFOza25K7L/Rocketseat-Twitter-Clone?node-id=1%3A2</b>
 </p>
 
 
