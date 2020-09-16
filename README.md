@@ -27,7 +27,7 @@ Replicação do Twitter responsivo feita com React e Typescript.
 ## Deploy (FRONTEND):dash:
 
 <p align="justify">
-  O deploy do projeto foi realizado pelo Netlify e encontra-se disponivel em: <b><a target="blank href="organic-trouble.surge.sh"</a>https://webropay.vercel.app/home</b>
+  O deploy do projeto foi realizado pelo Netlify e encontra-se disponivel em: <b><a target="blank href="organic-trouble.surge.sh"</a></b>
 </p>
 
 
