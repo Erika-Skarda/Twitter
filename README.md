@@ -5,14 +5,8 @@
 </br>
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT" />
-    <img src="https://img.shields.io/static/v1?label=material-ui&message=library&color=green&style=for-the-badge&logo=MATERIAL-UI"/>
-</p>  
-
-<p align="center">
-   <img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>
-   <img src="https://img.shields.io/static/v1?label=hooks&message=framework&color=blue&style=for-the-badge&logo=HOOKS" />
-   <img src="https://img.shields.io/static/v1?label=node&message=language&color=green&style=for-the-badge&logo="NODE"/>
-   <img src="https://img.shields.io/static/v1?label=styled-component&message=library&color=pink&style=for-the-badge&logo=STYLED-COMPONENTS"/>
+    <img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>
+    <img src="https://img.shields.io/static/v1?label=styled-component&message=library&color=pink&style=for-the-badge&logo=STYLED-COMPONENTS"/>
 </p> 
 </br>
 
@@ -28,16 +22,11 @@ Replicação do Twitter responsivo feita com React e Typescript.
   O protótipo do projeto foi criado em Figma encontra-se disponivel em: <b>https://www.figma.com/file/cjNh1bd93pbJBFOza25K7L/Rocketseat-Twitter-Clone?node-id=1%3A2</b>
 </p>
 
-## Deploy (BACKEND):dash:
 
-<p align="justify">
-  O deploy do projeto foi realizado pela AWS e encontra-se disponivel em: <b><a target="blank href="organic-trouble.surge.sh"</a>https://5atloqntqe.execute-api.us-east-1.amazonaws.com/dev/</b>
-</p>
-    
 ## Deploy (FRONTEND):dash:
 
 <p align="justify">
-  O deploy do projeto foi realizado pelo VERCEL e encontra-se disponivel em: <b><a target="blank href="organic-trouble.surge.sh"</a>https://webropay.vercel.app/home</b>
+  O deploy do projeto foi realizado pelo Netlify e encontra-se disponivel em: <b><a target="blank href="organic-trouble.surge.sh"</a>https://webropay.vercel.app/home</b>
 </p>
 
 
