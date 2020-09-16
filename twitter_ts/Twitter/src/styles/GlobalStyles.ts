@@ -5,7 +5,6 @@ export default createGlobalStyle `
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-
         color: var(--white)
 
     }
@@ -41,6 +40,6 @@ export default createGlobalStyle `
     --twitter-light-hover: #2C8ED6;
 
    }
-`;
+`;  
 
 

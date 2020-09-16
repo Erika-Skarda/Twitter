@@ -1,7 +1,16 @@
 import React from 'react';
 
-import { Container, Header, BackIcon, ProfileInfo, BottomMenu, HomeIcon, SearchIcon, EmailIcon, BellIcon } from './styles';
+import { Container, 
+    Header, 
+    BackIcon, 
+    ProfileInfo, 
+    BottomMenu, 
+    HomeIcon, 
+    SearchIcon, 
+    EmailIcon, 
+    BellIcon } from './styles';
 import { ArrowLeft } from "../../styles/icons";
+import ProfilePage from '../ProfilePage';
 
 const Main: React.FC = () => {
   return (
@@ -17,17 +26,17 @@ const Main: React.FC = () => {
               </ProfileInfo>
           </Header>
 
-          {/* <ProfilePage /> */}
+        <ProfilePage /> 
 
-          {/* <BottomMenu>
-              <HomeIcon />
+          <BottomMenu>
+              <HomeIcon className="active"/>
               <SearchIcon />
               <BellIcon />
               <EmailIcon />
-          </BottomMenu> */}
+          </BottomMenu> 
 
       </Container>
-  );
+  )
 }
 
 export default Main;
